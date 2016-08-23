@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/SndFX">
+        <file>Ding.wav</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>SurfBits.ico</file>
+    </qresource>
+</RCC>
